@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DBConnectionTest
+comment0.text=\r\n\ JDBC\ connection\ test\ to\ Our\ SEP\ project\ DB\ server.\ \ \r\n\ \r\n\ @Junghyun\ EOM\r\n\ @version\ test\r\n
+comment1.params=
+comment1.target=DBConnectionTest()
+comment2.params=
+comment2.target=void\ testQuery()
+numComments=3

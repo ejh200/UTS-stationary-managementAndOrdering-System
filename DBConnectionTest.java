@@ -11,7 +11,7 @@ public class DBConnectionTest
     private String driver = "org.mariadb.jdbc.Driver";
     private String url = "jdbc:mariadb://sep-group1.chfmthqa5fv5.ap-southeast-2.rds.amazonaws.com:3306/SEP_group1";
     private String userId = "sepDB";
-    private String userPW = "user1234";
+    private String userPW = ""; //<-- Look up google docs what I linked on FB group chat
     
     //From Library Java.sql.Connection 
     Connection connection = null;
