@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="http://www.uts.edu.au/31284/sep-order"
+           xmlns="http://www.uts.edu.au/31284/sep-order"
+           elementFormDefault="qualified">
+    <!-- Schema for appropriate name types -->
+    <xs:simpleType name="name">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="([A-Z][a-z]+)\s?(([A-Z][a-z]+)\s?)?(([A-Z][a-z]+)\s?)?"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="email">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="(.+@.+\..+)([^.])"/>
+        </xs:restriction>
+    </xs:simpleType>    
+    <xs:element name="orders">
+        <xs:complexType mixed="true">
+            <xs:sequence>
+                <xs:element name="order" minOccurs="0" maxOccurs="unbounded">
+                    <xs:complexType mixed="true">
+                        <xs:sequence>
+                            <xs:element name="id" type="xs:int"/>
+                            <xs:element name="productID" type="xs:int"/>
+                            <!-- title type should only be an existing product title-->
+                            <xs:element name="title" type="xs:string"/>
+                            <xs:element name="customer" type="name"/>
+                            <xs:element name="email" type="email"/>
+                            <xs:element name="managerusername" type="xs:string"/>
+
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+       
+</xs:schema>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:products xmlns:ns2="http://www.uts.edu.au/31284/sep-products">
+    <product>
+        <id>1</id>
+        <productName>Reflex Ultra White 80gsm A4 Copy Paper 2500 Sheet Box</productName>
+        <stock>25</stock>
+        <price>24.95</price>
+        <description>
+            Reflex Ultra A4 Paper has a smooth and ultra white surface so you can use it for both colour and monochrome printing. The built-in curl control supports trouble free feeding and ensures that your printing tasks are completed efficiently. 
+        </description>
+        <manager-username>joe</manager-username>
+    </product>
+    <product>
+        <id>2</id>
+        <productName>Casio Scientific Calculator fx-82AU PLUS II</productName>
+        <stock>69</stock>
+        <price>28.50</price>
+        <description>
+            The Casio fx-82AU PLUS II Scientific Calculator is ideal for students of all ages right through to university. Incorporating all of the features from the previous model, this calculator also has the ability to calculate prime factorisation and verification of equalities and inequalities.
+        </description>
+        <manager-username>james</manager-username>
+    </product>
+    <product>
+        <id>3</id>
+        <productName>MacBook Pro 2018 15" 512GB with Touch Bar Space Grey</productName>
+        <stock>7</stock>
+        <price>3689.00</price>
+        <description>
+           The new MacBook Pro has 6-core Intel Core processors for up to 70 per cent faster compute speeds. A brilliant and colourful Retina display featuring True Tone technology for a more true-to-life viewing experience. 
+        </description>
+        <manager-username>joe</manager-username>
+    </product>
+    <product>
+        <id>4</id>
+        <productName>Spirax A4 No. 907 Lecture Pad 140 Page</productName>
+        <stock>300</stock>
+        <price>4.29</price>
+        <description>
+            This Spirax A4 No. 907 Lecture Pad is perfect for taking notes on the go as it has pre-punched binder holes, making it easy to carry. The strong glue binding helps prevent the pages from falling out and allows you to easily remove pages. The pages are lined and perforated, so that you can insert your completed notes into your binder.
+        </description>
+        <manager-username>john</manager-username>
+    </product>
+    <product>
+        <id>5</id>
+        <productName>Rexel Stella 70 Electric Stapler</productName>
+        <stock>4</stock>
+        <price>845.00</price>
+        <description>
+            The Rexel Stella 70 Electric Stapler is a compact, accurate electric stapler. This stapler comes with a flat clinch for flatter stacks of paper, and an Easy Jam release button to help counter those annoying paper jams. This stapler comes with 5000 staples and can staple up to 70 sheets at once. The strong, metal construction with suction cap feet prevent skidding and marking.
+        </description>
+        <manager-username>james</manager-username>
+    </product>
+    <product>
+        <id>6</id>
+        <productName>iPhone</productName>
+        <stock>10</stock>
+        <price>2999</price>
+        <description>sexy phone oh yeah</description>
+        <manager-username>john</manager-username>
+    </product>
+</ns2:products>

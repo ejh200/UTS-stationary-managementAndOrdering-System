@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/register.jsp</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/WEB-INF/managers.xsd</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/WEB-INF/products.xsl</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/src/java/uts/sep/Validator.java</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/src/java/uts/sep/Managers.java</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/WEB-INF/products.xml</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/src/java/uts/demo/ProductDemo.java</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/logout.jsp</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/src/java/uts/sep/ProductApplication.java</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/src/java/uts/sep/Product.java</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/WEB-INF/web.xml</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/src/java/uts/sep/Manager.java</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/registerAction.jsp</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/WEB-INF/orders.xsd</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/WEB-INF/product_detail.xsl</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/WEB-INF/orders.xml</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/login.jsp</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/src/java/uts/sep/Users.java</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/PageNotFound.jsp</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/loginAction.jsp</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/WEB-INF/product_detail_user.xsl</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/src/java/uts/sep/Order.java</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/WEB-INF/get_productapp.jsp</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/WEB-INF/orders.xsl</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/deleteProductAction.jsp</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/WEB-INF/managers.xml</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/orderAction.jsp</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/src/java/uts/sep/rest/ProductService.java</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/src/java/uts/sep/Orders.java</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/order_product.jsp</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/src/java/uts/sep/Products.java</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/addProductAction.jsp</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/index.jsp</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/WEB-INF/managers.xsl</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/WEB-INF/products.xsd</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/src/java/uts/sep/User.java</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/nbproject/build-impl.xml</file>
+            <file>file:/Users/james/Dropbox/School/UTS/Session%204.2/Software%20Engineering/Assignment%20Shared/Project%20Files/assignment/web/product_details.jsp</file>
+        </group>
+    </open-files>
+</project-private>

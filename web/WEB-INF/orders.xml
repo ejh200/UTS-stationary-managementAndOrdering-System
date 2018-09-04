@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="cd.xsl"?>
+<!--<orders xmlns="http://www.uts.edu.au/31284/sep-order"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.uts.edu.au/31284/sep-order orders.xsd"> -->
+
+<orders>
+    <order>
+        <id>1</id>
+        <productID>1</productID>
+        <title></title>
+        <customer>Some Person</customer>
+        <email>person@email.com</email>
+        <managerusername>james</managerusername>
+    </order>
+    <order>
+        <id>2</id>
+        <productID>3</productID>
+        <title></title>
+        <customer>Someone Else</customer>
+        <email>someone@email.com</email>
+        <managerusername>joe</managerusername>
+    </order>
+</orders>

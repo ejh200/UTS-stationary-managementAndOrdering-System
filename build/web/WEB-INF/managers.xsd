@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://www.uts.edu.au/31284/sep-managers"
+    xmlns="http://www.uts.edu.au/31284/sep-managers"
+    elementFormDefault="qualified">
+ 
+    <!-- Insert your type declarations here -->
+    <xs:simpleType name="date">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\d{1,2}/\d{1,2}/\d{1,4}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="name">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="([A-Z][a-z]+)\s?(([A-Z][a-z]+)\s?)?(([A-Z][a-z]+)\s?)?"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="email">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="(.+@.+\..+)([^.])"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    
+    
+    
+    <xs:element name="managers">
+        <xs:complexType mixed="true">
+            <xs:sequence>
+                <xs:element name="manager" minOccurs="0" maxOccurs="unbounded">
+                    <xs:complexType mixed="true">
+                        <xs:sequence>
+                            <xs:element name="name" type="name"/>
+                            <xs:element name="email" type="email"/>
+                            <xs:element name="password" type="xs:string"/>
+                            <xs:element name="dob" type="date"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <!-- Insert your element declarations here -->
+ 
+</xs:schema>

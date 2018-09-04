@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<managers>
+    <manager username="james">
+        <name>James Carmody</name>
+        <email>james@gmail.com</email>
+        <password>hi</password>
+        <dob>13/08/1995</dob>
+    </manager>
+    <manager username="joe">
+        <name>Joe Blogs</name>
+        <email>joe@gmail.com</email>
+        <password>hi</password>
+        <dob>14/02/1998</dob>
+    </manager>
+    <manager username="john">
+        <name>John Smith</name>
+        <email>john@gmail.com</email>
+        <password>hi</password>
+        <dob>27/08/1997</dob>
+    </manager>
+</managers>

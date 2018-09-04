@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<orders>
+    <order>
+        <id>1</id>
+        <productID>1</productID>
+        <email>person@email.com</email>
+        <managerusername>james</managerusername>
+    </order>
+    <order>
+        <id>2</id>
+        <productID>3</productID>
+        <email>someone@email.com</email>
+        <managerusername>joe</managerusername>
+    </order>
+</orders>

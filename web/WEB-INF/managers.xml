@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="managers.xsl"?>
+
+<!--
+<managers xmlns="http://www.uts.edu.au/31284/sep-managers"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.uts.edu.au/31284/sep-manager managers.xsd">
+-->
+<managers>
+    
+    <manager username="james">
+        <name>James Carmody</name>
+        <email>james@gmail.com</email>
+        <password>hi</password>
+        <dob>13/08/1995</dob>
+    </manager>
+ 
+    <manager username="joe">
+        <name>Joe Blogs</name>
+        <email>joe@gmail.com</email>
+        <password>hi</password>
+        <dob>14/02/1998</dob>
+    </manager>
+ 
+    <manager username="john">
+        <name>John Smith</name>
+        <email>john@gmail.com</email>
+        <password>hi</password>
+        <dob>27/08/1997</dob>
+    </manager>
+    
+</managers>
