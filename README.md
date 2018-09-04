@@ -1,2 +1,2 @@
 # UTS-stationary-managementAndOrdering-System
-#This is a Desktop Application.
+#This is a Web Application.
